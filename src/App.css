@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  background-color: #282c34
+}
+
+
+.App-header {
+  
+  
+  
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  
+}
+
+
+.container{
+
+display: flex;
+justify-content: space-between;
+
+}
+.Card{
+background-color: #837984;
+
+}
+
+
+.aaa{
+margin-top: 7cm;
+  display: flex;
+  justify-content: center ;
+}
+
+
+
+
